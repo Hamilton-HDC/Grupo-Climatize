@@ -202,6 +202,15 @@ header {
   font-family: umfuturo;
   src: url(../fonts/font01.otf);
 } 
+.color{
+  width:100%;
+  height:100%;
+  border-radius: 100px;
+
+}
+
+  
+
 
   
 
